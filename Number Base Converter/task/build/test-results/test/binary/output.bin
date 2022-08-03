@@ -1,0 +1,30 @@
+[1;31m
+Start test 1[0m
+%Enter number in decimal system: > 54
+
+Enter target base: > 16
+
+[1;31m
+Start test 2[0m
+&Enter number in decimal system: > 450
+
+Enter target base: > 16
+
+[1;31m
+Start test 3[0m
+&Enter number in decimal system: > 831
+
+Enter target base: > 16
+
+[1;31m
+Start test 4[0m
+&Enter number in decimal system: > 601
+
+Enter target base: > 2
+
+[1;31m
+Start test 5[0m
+%Enter number in decimal system: > 23
+
+Enter target base: > 8
+
